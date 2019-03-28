@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel - by TnT Joker
                 </div>
 
                 <div class="links">
