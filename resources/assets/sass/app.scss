@@ -63,6 +63,13 @@ h2 {
     }
 }
 
+#logout {
+    cursor: default;
+    &:hover {
+        background-color: transparent;
+    }
+}
+
 /* footer */
 
 footer {
